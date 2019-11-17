@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ぼくのなつやすみ</title>
+</head>
+<body>
+がっぽち農場
+</div>
+
+<?php
+
+?>
+</body>
+</html>
